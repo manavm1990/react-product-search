@@ -1,3 +1,3 @@
-# Create React App with Prettier and Tailwind CSS
+# React Product Search Table
 
 [Data source](my-json-server.typicode.com/claim-academy-js/products/products)
